@@ -1,0 +1,41 @@
+header  {
+    background-color: #28a727;
+}
+
+nav {
+    background-color: #28a727;
+}
+
+h1 {
+    font-family: 'roboto', sans-serif;
+    font-size: light;
+}
+
+h2 {
+    font-family: 'roboto', sans-serif;
+    font-size: light;
+}
+
+h3 {
+    font-family: 'roboto', sans-serif;
+    font-size: light;
+}
+
+h4 {
+    font-family: 'roboto', sans-serif;
+    font-size: light;
+}
+
+h5 {
+    font-family: 'roboto', sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+
+}
+
+p   {
+    font-family: 'roboto', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+    color: #707070;
+}
